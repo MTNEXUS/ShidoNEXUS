@@ -1,0 +1,17 @@
+For UI we use TailwindCSS and for the components we use Shadcn UI.
+https://ui.shadcn.com/docs/
+
+For the icons we use Lucide Icons.
+https://lucide.dev/docs/getting-started/installation
+
+We're using Vite for the project.
+https://vitejs.dev/guide/
+
+We're using TypeScript for the project.
+https://www.typescriptlang.org/docs/
+
+We're using React for the project.
+https://react.dev/
+
+I want to project as modular as possible.
+Code should be in the components folder and the pages folder and be well organized and commented.
