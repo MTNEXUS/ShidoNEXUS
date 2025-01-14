@@ -20,5 +20,6 @@ Shido Nexus is a comprehensive web application for the Shido Network ecosystem t
   - Network documentation
   - Tutorials and guides
 
-  ## Contact / Links
+## Contact / Links
 - **Website**: [https://shidonexus.com](https://shidonexus.com)
+- **Telegram**: @ShidoNEXUS
